@@ -1,6 +1,7 @@
 # Web framework
 fastapi
 loguru
+pypdf
 # NLP and ML
 sentence-transformers>=2.2.0
 transformers>=4.30.0
