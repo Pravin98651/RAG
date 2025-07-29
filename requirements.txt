@@ -1,0 +1,34 @@
+# Core PDF processing
+pypdf2>=3.0.0
+pdfplumber>=0.9.0
+
+# NLP and ML
+sentence-transformers>=2.2.0
+transformers>=4.30.0
+torch>=2.0.0
+numpy>=1.21.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+
+# Vector database
+chromadb>=0.4.0
+
+# LangChain (optional - can be removed if causing issues)
+langchain>=0.0.300
+langchain-community>=0.0.10
+
+# NLP tools
+nltk>=3.8
+spacy>=3.5.0
+
+# Table extraction
+tabula-py>=2.7.0
+camelot-py>=0.11.0
+
+# Utilities
+python-dotenv>=1.0.0
+tiktoken>=0.4.0
+
+# Image processing (for table extraction)
+opencv-python>=4.8.0
+Pillow>=9.5.0 

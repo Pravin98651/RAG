@@ -1,0 +1,9 @@
+# Essential dependencies only
+pypdf2
+pdfplumber
+sentence-transformers
+chromadb
+numpy
+pandas
+nltk
+spacy 
