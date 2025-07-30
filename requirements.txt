@@ -12,7 +12,7 @@ scikit-learn>=1.2.0
 pdfplumber
 # Vector database
 chromadb>=0.4.0
-
+nltk
 # LangChain (optional)
 langchain>=0.0.300
 langchain-community>=0.0.10
